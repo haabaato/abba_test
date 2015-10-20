@@ -3,3 +3,5 @@ Testing the [Abba](https://github.com/thumbtack/abba) library.
 
 ##Usage
 `./abba_parse.py Sample\ File-Conversion\ -\ Sheet1.csv`
+
+Default output file is `abba_parse.csv`.
